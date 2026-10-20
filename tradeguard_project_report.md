@@ -6,10 +6,10 @@
 | | |
 |---|---|
 | **Problem Statement Title** | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trades |
-| **Problem Statement ID** | _to be filled_ |
+| **Problem Statement ID** | _SIH26244_ |
 | **Theme** | Smart Automation |
 | **PS Category** | Hardware |
-| **Team Name / Team ID** | _to be filled_ |
+| **Team Name / Team ID** | _161347_ |
 | **Document Version** | v1.0 |
 
 ---
